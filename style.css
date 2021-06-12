@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #e1e8eb;
+}
+h1{
+  margin: 20px;
+}
+table {
+  margin: 20px;
+  width:510px;
+}
+table, th, td {
+  background: #ffc107;
+  border: 1px solid #fb9300;
+  border-collapse: collapse;
+}
+
+th, td {
+padding: 15px;
+}
+
+th {
+  text-transform: uppercase;
+  background: #7952b3;
+}
+.section{
+  width: 550px;
+  margin: 20px;
+}
+input,button{
+width: 168px;
+}
